@@ -1,2 +1,2 @@
 # MySQL
-Here I have all my SQL requete et data bases
+Here I have all my SQL querys and data bases
